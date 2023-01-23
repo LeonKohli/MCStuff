@@ -1,0 +1,624 @@
+Leuchtfeuer
+Drachenei
+Barriere
+Grundgestein
+Endportalrahmen
+Witherkopf
+Netherstern
+Teleporter
+Diamant-Drachenei
+Magma-Drachenei
+Magische Leine
+Magische Leine (x12)
+Unsichtbarer Bilderrahmen
+GrieferGames Flamme
+Tränen eines 1.8 Spielers
+Kuchen zum Verschenken!
+Duplizierter Endstein
+Seltsame Bohnen
+Bambusleitung
+Glück zum Verschenken
+Horn eines Einhorns
+Kopi Luwak
+Server-Restart-Knopf
+Knisterndes Lagerfeuer
+Kühlendes Wasser
+Der Burner
+GrieferGames Rettungsboot
+Mobile Aura
+Glücksverzauberer
+Fachwissen der Community
+Alte Währung
+Rentnerstock
+Erfrischende Melonenscheibe
+Scammer-Fail
+Puzzlestück der 1.19
+Besonderes Popcorn
+Anker der Freundschaft
+Zielblock der 1.16
+Weg zum Glück
+Die alte Leier
+Drachenatem
+Trank des sanften Falls (1:30)
+Trank des sanften Falls (4:00)
+Wurftrank des sanften Falls (1:30)
+Wurftrank des sanften Falls (4:00)
+Case-Opening (Seelen Anker)
+Case-Opening (Truhe)
+Case-Opening (Weiße Shulker Kiste)
+Case-Opening (Endportal-Rahmen)
+Case-Opening (Fass)
+Case-Opening (Honigblock)
+Case-Opening (Enderchest)
+Funktion: /kopf
+Plot-Fliegen-Perk (1 Tag)
+Plot-Fliegen-Perk (7 Tage)
+Plot-Fliegen-Perk (14 Tage)
+Plot-Fliegen-Perk (30 Tage)
+Plot-Fliegen-Perk (60 Tage)
+Schnelligkeits-Perk (1 Tag)
+Schnelligkeits-Perk (3 Tage)
+Schnelligkeits-Perk (14 Tage)
+Schnelligkeits-Perk (30 Tage)
+Schnelligkeits-Perk (60 Tage)
+Kein Fallschaden-Perk (1 Tag)
+Kein Fallschaden-Perk (3 Tage)
+Kein Fallschaden-Perk (14 Tage)
+Kein Fallschaden-Perk (30 Tage)
+Kein Fallschaden-Perk (60 Tage)
+Kein Hunger-Perk (1 Tag)
+Kein Hunger-Perk (3 Tage)
+Kein Hunger-Perk (14 Tage)
+Kein Hunger-Perk (30 Tage)
+Kein Hunger-Perk (60 Tage)
+Gunst des Delfins-Perk (7 Tage)
+Gerüst der Event-Lobby
+Überreste eines Bugs
+Erschaffe BIRTH-Abge
+Netheritspitzhacke
+Netheritspitzhacke (Effizienz X)
+Netheritaxt
+Netheritaxt (Effi X)
+Netheritspitzhacke
+Netheritschaufel
+Netheritschaufel (Halt X)
+Netheritschwert
+Kartenschere
+Super-Axt
+Super-Schaufel
+Super-Spitzhacke
+Rustikales Schwert
+Netherithelm
+Netheritharnisch
+Netheritbeinschutz
+Netheritstiefel
+Plot-Gutschein
+GS-Gutschein
+Merge-Gutschein
+Clan-Tag Sondercodes
+Bunte Clan-Tags
++3 Clan-Mitglied
++1 Clan-Mitglied
+Spawn-GS-Gutschein
+Plot-Holo
+Mini-Rüstungsständer
+Prefix - Weißer Farbverlauf
+Prefix - Grüner Farbverlauf
+Prefix - Sommer Farbverlauf
+Prefix - Türkiser Farbverlauf
+Prefix - Blau-Pinker Farbverlauf
+Prefix - Orangene Farbe
+Prefix - Hell-Türkise Farbe
+Prefix - Hell-Grüne Farbe
+Prefix - Limette Farbe
+Prefix - Hell-Violette Farbe
+Prefix - Weinrote Farbe
+Prefix - Schweinchen-Rosane Farbe
+Prefix - Violetter Farbverlauf
+Prefix - Herbst-Farbverlauf
+Prefix - Dunkelgoldene Farbe
+Prefix - Leichtgrüne Farbe
+Prefix - Hellbeige Farbe
+Prefix - Winter-Farbverlauf
+Prefix - Adventurer-Farbverlauf
+Bannervorlage Blume
+Bannervorlage Creeper
+Bannervorlage Globus
+Bannervorlage Mojang-Logo
+Bannervorlage Schädel
+Bannervorlage Schnauze
+Weihnachtlicher Glas-Rand
+Eisiger Rand
+Zuckerstangen-Laub-Rand
+Rand-Effekt Bemooste Steinziegelstufe
+Rand-Effekt Dunkle Prismarinstufe
+Rand-Effekt Endsteinziegelstufe
+Rand-Effekt Fichtenholzstufe
+Rand-Effekt Glatte Sandsteinstufe
+Rand-Effekt Golddurchzogener Schwarzstein
+Rand-Effekt Pilzlicht
+Rand-Effekt Prismarinstufe
+Rand-Effekt Rote Netherziegelstufe
+Rand-Effekt Roter Beton
+Rand-Effekt Schwarzeichenholzfalltür
+Rand-Effekt Schwarzer Beton
+Rand-Effekt Schwarzstein
+Rand-Effekt Steinziegelstufe
+Rand-Effekt Weinender Obsidian
+Rand-Effekt Glatte Steinstufe
+Rand-Effekt Abgestorbener Feuerkorallenblock
+Rand-Effekt Bruchsteinstufe
+Rand-Effekt Eichenholzstufe
+Rand-Effekt Karmesinstufe
+Rand-Effekt Netherziegel
+Rand-Effekt Polierte Andesitstufe
+Rand-Effekt Stein
+Rand-Effekt Tropenholzstufe
+Rand-Effekt Wirrstufe
+Rand-Effekt Weisse Wolle
+Rand-Effekt Polierter Schwarzstein-Mix
+Wand-Effekt
+Wand-Effekt Sandstein-Mix
+Oster-Grind Oster-Event Trophäe 2022
+Oster-Karte (X/9) Oster-Event Karte 2022
+Lucky-Lane-Startstein
+Lucky-Lane-Truhe
+Wunderkerze
+Halloween-Event 2022 (Kürbis)
+Halloween-Karte 2022
+Halloween-Event 2022 (Kürbislaterne)
+Orientierung im Traum
+Verdorrte Pflanze
+Halloween-Event 2022 (Faden)
+Halloween-Schwert 2022
+Hexenauge
+Halloween-Event 2022 (Spinnennetz)
+Halloween-Event Set 2022
+Samenkorn des Horrors
+Muttertagsblume
+Laaaast Christmaaas... (2022)
+Laaaast Christmaaas... (2022 Eventbelohnung)
+3 Jahre GrieferWert
+Bienen Verzaubert (2022 Köpfe Kiste)
+Rainbow Beere (2022 verzaubert - Köpfe Kiste)
+Goldener Spawner (2022 Köpfe Kisten)
+Goldener Truthahn (2022 verzaubert - Köpfe Kiste)
+Rainbow Pilz (2022 verzaubert - Köpfe Kisten)
+Kürbis (2022 verzaubert - Köpfe Kiste)
+Gebäck (2022 verzaubert - Köpfe Kiste)
+Weihnachtliche Teamler (verzaubert - Köpfe Kisten)
+Frohes Neues (verzaubert - Köpfe Kiste)
+GrieferGames News
+Creeperkopf
+Skelettschädel
+Zombiekopf
+Erzkopf
+Bekon
+Rubik´s Cube (2022 Platin Kiste)
+Vogel (2022 Platin Kiste)
+Tierchen (Platin-Kiste)
+Geister (Platin Kiste)
+Weihnachtsgeschenk 2022
+Bienen (2022 Köpfe Kiste)
+Ton (2022 Köpfe Kiste)
+Steine (2022 Köpfe Kiste)
+Früchte und Obst (2022 Köpfe Kiste)
+Sand (2022 Köpfe Kiste)
+Holz (2022 Köpfe Kiste)
+Eis und Schnee (2022 Köpfe Kiste)
+Erde und Pilze (2022 Köpfe Kiste)
+Spawner (2022 Köpfe Kisten)
+Ernte (2022 Köpfe Kisten)
+Blöcke und Erze (2022 Köpfe Kisten)
+Bunter Herbst (2022 Köpfe-Kiste)
+Blöcke (2022 Köpfe-Kiste)
+Kürbis (2022  - Köpfe Kiste)
+Adventskalender (2022 - Köpfe Kiste)
+Gebäck (2022 - Köpfe Kiste)
+Laterne (2022 - Köpfe Kiste)
+Weihnachtliche Teamler (2022 - Köpfe Kiste)
+Sternzeichen (2022 - Köpfe Kiste)
+Christbaumkugel (2022 - Köpfe Kiste)
+Weihnachtsbild (Winter-Kiste)
+Pinguin (Platin-Kiste)
+Prinzessinnen (2023 - Köpfe Kiste)
+Alphabet (2023 - Köpfe Kiste)
+Oster-Hase Oster-Event Trophäe 2022
+Oster-Ei (Grau) Oster-Event Trophäe 2022
+Oster-Ei (Gelb) Oster-Event Trophäe 2022
+Oster-Ei (Blau) Oster-Event Trophäe 2022
+Oster-Ei (Rot) Oster-Event Trophäe 2022
+Oster-Ei (Grün) Oster-Event Trophäe 2022
+Oster-Ei (Lila) Oster-Event Trophäe 2022
+Glücks-Ei (Regenbogen) Oster-Event Trophäe 2022
+Lucky-Lane 2022
+Halloween-Event 2022 (Kopf)
+Kugelfisch-Spawn-Ei (Glück 1)
+Manfred-Spawn-Ei (Glück 1)
+Tropenfisch-Spawn-Ei (Glück 1)
+Ertrunkenenen-Spawn-Ei (Glück 1)
+Mumien-Spawn-Ei
+Vampir-Spawn-Ei
+Smaragderz
+Smaragdblock
+Smaragd
+Diamanterz
+Diamantblock
+Diamant
+Eisenerz
+Eisenblock
+Eisenbarren
+Golderz
+Goldblock
+Goldbarren
+Kohleerz
+Kohleblock
+Kohle
+Lapislazulierz
+Lapislazuliblock
+Lapislazuli
+Redstoneerz
+Redstoneblock
+Redstone
+Akazienstamm
+Birkenstamm
+Eichenstamm
+Fichtenstamm
+Schwarzeichenstamm
+Tropenbaumstamm
+Akazienholz
+Birkenholz
+Eichenholz
+Fichtenholz
+Schwarzeichenholz
+Tropenbaumholz
+Tropenbaumholz
+Entrindeter Akazienstamm
+Entrindeter Birkenstamm
+Entrindeter Eichenstamm
+Entrindeter Fichtenstamm
+Entrindeter Schwarzeichenstamm
+Entrindeter Tropenbaumstamm
+Entrindetes Akazienholz
+Entrindetes Birkenholz
+Entrindetes Eichenholz
+Entrindetes Fichtenholz
+Entrindetes Schwarzeichenholz
+Entrindetes Tropenholz
+Akazienholzbretter
+Birkenholzbretter
+Fichtenholzbretter
+Schwarzeichenholzbretter
+Tropenholzbretter
+Eichenholzbretter
+Akazienlaub
+Birkenlaub
+Eichenlaub
+Fichtennadeln
+Schwarzeichenlaub
+Tropenbaumlaub
+Akaziensetzling
+Birkensetzling
+Eichensetzling
+Fichtensetzling
+Schwarzeichensetzling
+Tropenbaumsetzling
+Wolle weiß
+Wolle gefärbt
+Glas
+Glas gefärbt
+Keramik
+Keramik gefärbt (farmbar)
+Keramik gefärbt (erstellbar)
+Glasierte Keramik
+Purpurblock
+Purpursäule
+Endstein
+Endsteinziegel
+Chorusfrucht
+Chorusblüte
+Geplatze Chorusfrucht
+Drachenkopf
+Endstab
+Enderkristall
+Shulker-Schale
+Antiker Schrott
+Netheritplatten
+Netheritbarren
+Netheritblock
+Netherquarzerz
+Netherquarz
+Quarz
+Quarzsäule
+Quarzblock gemeißelt
+Netherziegelblock
+Roter Netherziegelblock
+Netherrack
+Schwarzstein
+Golddurchzogener Schwarzstein
+Gemeißelter polierter Schwarzstein
+Polierter Schwarzstein
+Polierte Schwarzsteinziegel
+Rissige polierte Schwarzsteinziegel
+Basalt
+Polierter Basalt
+Nethergolderz
+Knochenblock
+Magmablock
+Seelensand
+Seelenerde
+Netherwarze
+Netherwarzenblock
+Karmesinnezel
+Karmesinstiel
+Karmesinwurzel
+Karmesinpilz
+Geschälte Karmesinhyphen
+Geschälter Karmesinstiel
+Karmesinbretter
+Trauerranken
+Wirrnezel
+Wirrstiel
+Wirrwurzel
+Wirrwarzenblock
+Wirrpilz
+Geschälte Wirrhyphen
+Geschälter Wirrstiel
+Wirrbretter
+Nethersprossen
+Zwirbelranken
+Pilzlicht
+Glowstone
+Glowstonestaub
+Prismarin
+Prismarinziegel
+dunkles Prismarin
+Seelaternen
+Schwamm
+Prismarinscherbe
+Prismarinkristall
+Seetang
+Getrockneter Seetang
+Getrockneter Seetangblock
+Seegras
+Meeresgurke
+Orgelkoralle
+Hirnkoralle
+Blasenkoralle
+Feuerkoralle
+Geweihkoralle
+Orgelkorallendfächer
+Hirnkorallenfächer
+Blasenkorallenfächer
+Feuerkorallenfächer
+Geweihkorallenfächer
+Abgestorbene Koralle
+Abgestorbene Korallenfächer
+Orgelkorallenblock
+Hirnkorallenblock
+Blasenkorallenblock
+Feuerkorallenblock
+Geweihkorallenblock
+Nautilusschale
+Fischeimer
+Herz des Meeres
+Sand
+Sandstein
+Sandstein glatt
+Sandstein gemeißelt
+Sandstein geschnitten
+Roter Sand
+Roter Sandstein
+Roter Sandstein glatt
+Roter Sandstein gemeißelt
+Roter Sandstein geschnitten
+Bruchstein
+Stein
+Glatter Stein
+Steinziegel
+Steinziegel rissig
+Steinziegel gemeißelt
+Bruchstein bemoost
+Steinziegel bemoost
+Andesit
+Diorit
+Granit
+Andesit poliert
+Diorit poliert
+Granit poliert
+Trockenbeton
+Beton
+Ziegelstein
+Ziegel
+Ton
+Tonklumpen
+Kies
+Eis
+Packeis
+Blaueis
+Schneeblock
+Schneeball
+Grobe Erde
+Erde
+Grasblock
+Myzel
+Podsol
+Obsidian
+Weinender Obsidian
+TNT
+Strohballen
+Weizen
+Weizensamen
+Bienennest
+Bienenstock
+Honigwabenblock
+Honigwabe
+Honigblock
+Honigflasche
+Ranken
+Seerosenblatt
+Toter Busch
+Gras
+Farn
+Spinnennetz
+Melonenblock
+Melonenkerne
+Melonenscheiben
+Kürbis
+Kürbislaterne
+Kürbiskerne
+Kaktus
+Apfel
+Süßbeeren
+Rote Beete
+Rote Beete Samen
+Pilzblock braun
+Blumen - diverse
+Pilzblock rot
+Wither-Rose
+Pilz braun
+Pilz rot
+Farbstoffe divers
+Knochen
+Knochenmehl
+Kakaobohnen
+Tintenbeutel
+Schleimblock
+Schleimball
+Haken
+Hebel
+Tageslichtsensor
+Redstonefackel
+Fackel
+Seelenfackel
+Lohenrute
+Feuerstein
+Leder
+Schwarzpulver
+Feder
+Enderperle
+Enderauge
+Ei
+Hornschild
+Schildkrötenei
+Faden
+Ghastträne
+Magmacreme
+Erfahrungsfläschen
+Trank / Wurftrank
+Gerüst
+Truhe
+Redstonetruhe
+Fass
+Trichter
+Kolben
+Klebriger Kolben
+Spender
+Werfer
+Ofen
+Schmelzofen
+Räucherofen
+Beobachter
+Verstärker
+Komparator
+Redstonelampe
+Notenblock
+Plattenspieler
+Schiene
+Schienen (Redstone)
+Loren
+Druckplatten
+Wägeplatte
+Knopf
+Papier
+Buch
+Bücherregal
+Uhr
+Kompass
+leere Karte
+Eimer
+Wassereimer
+Lavaeimer
+Milcheimer
+Aquisator
+Leitstein
+Seelenanker
+Amboss
+Kessel
+Kette
+Glocke
+Laterne
+Seelenlaterne
+Lagerfeuer
+Seelenlagerfeuer
+Rahmen
+Blumentopf
+Gemälde
+Schild
+Werkbank
+Webstuhl
+Schleifstein
+Schmiedetisch
+Steinsäge
+Bognertisch
+Lesepult
+Kartentisch
+Komposter
+Zielblock
+Rüstungsständer
+Zaubertisch
+Endertruhe
+Shulker-Kiste
+Bett
+Tür
+Falltür
+Zaun / Zauntor
+Boot
+Bogen
+Armbrust
+Pfeil
+Pfeile (verzaubert)
+Schild (Kampf)
+Dreizack
+Totem der Unsterblichkeit
+Sattel
+Karottenrute
+Wirrpilzrute
+Leine
+Glasflasche
+Braustand
+Kuchen
+Kürbiskuchen
+Brot
+Keks
+Goldener Apfel
+Spinnenauge
+Fermentiertes Spinnenauge
+Karotte
+Kartoffel
+Zuckerrohr
+Zucker
+Bambus
+Roher Kabeljau
+Gebratener Kabeljau
+Roher Lachs
+Gebratener Lachs
+Tropenfisch
+Kugelfisch
+Rohes Hühnchen
+Gebratenes Hühnchen
+Rohes Rindfleisch
+Steak
+Rohes Schweinefleisch
+Gebratenes Schweinefleisch
+Rohes Hammelfleisch
+Gebratenes Hammelfleisch
+Rohes Kaninchen
+Gebratenes Kaninchen
+Seltsame Suppe
+Suppe
+Verrottetes Fleisch
+Verzaubertes Buch
+Namensschild
+Schallplatte
+Schallplatte (Pigstep)

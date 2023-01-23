@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 import re
 
+
 # Define the server switch URL
 server_switch_url = "https://wert.griefergames.de/server-switch/switch/4"
 
@@ -64,7 +65,7 @@ with open('prices.csv', 'w', newline='', encoding='utf-8') as csvfile:
             dk = dk.group(1).strip() if dk else "N/A"
         
             # Write the data to the CSV file
-            writer.writerow({'Name': name, 'Stück': stueck, 'Stack': stack, 'DK': dk})
+            writer.writerow({'Name': name})
 
 print("Scraping complete, data saved to prices.csv")
 

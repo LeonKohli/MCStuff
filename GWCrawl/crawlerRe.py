@@ -5,6 +5,10 @@ import re
 import datetime
 import os
 
+stueck_pattern = re.compile(r'Stück\s*:\s*([\d\.]+[kK]?\s*-\s*[\d\.]+[kK]?)')
+stack_pattern = re.compile(r'Stack\s*:\s*([\d\.]+[kK]?\s*-\s*[\d\.]+[kK]?)')
+dk_pattern = re.compile(r'DK\s*:\s*([\d\.]+[kK]?\s*-\s*[\d\.]+[kK]?)')
+
 # Define the server switch URL
 server_switch_url = "https://wert.griefergames.de/server-switch/switch/4"
 
@@ -28,15 +32,16 @@ soup = BeautifulSoup(response.text, 'html.parser')
 pagination = soup.find('ul', class_='pagination')
 last_page = int(pagination.find_all('li')[-2].text)
 
-current_dir = os.getcwd()
+current_dir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
 
-prices_dir = os.path.join(current_dir, "prices")
+prices_dir = os.path.join(current_dir, "MCStuff", "GWCrawl", "prices")
 if not os.path.exists(prices_dir):
     os.makedirs(prices_dir)
-    
+
 now = datetime.datetime.now()
 
 file_name = f"{prices_dir}\prices_{now.strftime('%Y-%m-%d %H-%M-%S')}.csv"
+print(file_name)
 
 # Create a CSV file to store the data
 with open(file_name, 'w', newline='', encoding='utf-8') as csvfile:
@@ -59,9 +64,9 @@ with open(file_name, 'w', newline='', encoding='utf-8') as csvfile:
         for item in items:
             name = item.find('h5').text.strip()
             prices = item.find('div', class_='mobile-price-display').text.strip()
-            stueck = re.search(r'Stück\s*:\s*([\d\.]+[kK]?\s*-\s*[\d\.]+[kK]?)', prices)
-            stack = re.search(r'Stack\s*:\s*([\d\.]+[kK]?\s*-\s*[\d\.]+[kK]?)', prices)
-            dk = re.search(r'DK\s*:\s*([\d\.]+[kK]?\s*-\s*[\d\.]+[kK]?)', prices)
+            stueck = stueck_pattern.search(prices)
+            stack = stack_pattern.search(prices)
+            dk = dk_pattern.search(prices)
             stueck = stueck.group(1).strip() if stueck else "N/A"
             stack = stack.group(1).strip() if stack else "N/A"
             dk = dk.group(1).strip() if dk else "N/A"
